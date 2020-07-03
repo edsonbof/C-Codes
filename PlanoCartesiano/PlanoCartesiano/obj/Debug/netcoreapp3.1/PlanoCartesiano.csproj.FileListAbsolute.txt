@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.exe
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.deps.json
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.runtimeconfig.json
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.dll
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\bin\Debug\netcoreapp3.1\PlanoCartesiano.pdb
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.dll
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.pdb
+D:\SI\Curso\Curso C#\PlanoCartesiano\PlanoCartesiano\obj\Debug\netcoreapp3.1\PlanoCartesiano.genruntimeconfig.cache

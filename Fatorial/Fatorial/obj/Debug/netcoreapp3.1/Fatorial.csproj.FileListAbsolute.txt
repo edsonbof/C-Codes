@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.exe
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.deps.json
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.json
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.dll
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.pdb
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.dll
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.pdb
+D:\SI\Curso\Curso C#\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.genruntimeconfig.cache

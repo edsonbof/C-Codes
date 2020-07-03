@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.exe
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.deps.json
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.runtimeconfig.json
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.dll
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp3.1\FormasGeometricas.pdb
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.dll
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.pdb
+D:\SI\Curso\Curso C#\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp3.1\FormasGeometricas.genruntimeconfig.cache

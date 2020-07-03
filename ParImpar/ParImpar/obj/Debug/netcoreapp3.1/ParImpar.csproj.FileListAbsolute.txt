@@ -1,0 +1,12 @@
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.exe
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.deps.json
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.json
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.dll
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.pdb
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.dll
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.pdb
+D:\SI\Curso\Curso C#\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.genruntimeconfig.cache

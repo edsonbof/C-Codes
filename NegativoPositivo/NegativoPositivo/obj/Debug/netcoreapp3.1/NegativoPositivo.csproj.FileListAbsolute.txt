@@ -1,0 +1,12 @@
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.exe
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.deps.json
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.runtimeconfig.json
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.dll
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\bin\Debug\netcoreapp3.1\NegativoPositivo.pdb
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.dll
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.pdb
+D:\SI\Curso\Curso C#\NegativoPositivo\NegativoPositivo\obj\Debug\netcoreapp3.1\NegativoPositivo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.exe
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.deps.json
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.runtimeconfig.json
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.dll
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\bin\Debug\netcoreapp3.1\EntradaViaConsole.pdb
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.dll
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.pdb
+D:\SI\Curso\Curso C#\EntradaViaConsole\EntradaViaConsole\obj\Debug\netcoreapp3.1\EntradaViaConsole.genruntimeconfig.cache

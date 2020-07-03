@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.exe
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.deps.json
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.runtimeconfig.json
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.dll
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\bin\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.pdb
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.dll
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.pdb
+D:\SI\Curso\Curso C#\NumerosImparesPorPeriodo\NumerosImparesPorPeriodo\obj\Debug\netcoreapp3.1\NumerosImparesPorPeriodo.genruntimeconfig.cache

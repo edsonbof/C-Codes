@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.exe
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.deps.json
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.runtimeconfig.json
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.dll
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\bin\Debug\netcoreapp3.1\PosicoesCartesianas.pdb
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.dll
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.pdb
+D:\SI\Curso\Curso C#\PosicoesCartesianas\PosicoesCartesianas\obj\Debug\netcoreapp3.1\PosicoesCartesianas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.exe
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.deps.json
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.json
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.dll
+D:\SI\Curso\Curso C#\Soma\Soma\bin\Debug\netcoreapp3.1\Soma.pdb
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.dll
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.pdb
+D:\SI\Curso\Curso C#\Soma\Soma\obj\Debug\netcoreapp3.1\Soma.genruntimeconfig.cache

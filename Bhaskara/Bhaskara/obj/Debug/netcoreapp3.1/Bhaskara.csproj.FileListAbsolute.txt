@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.exe
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.deps.json
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.json
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.dll
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.pdb
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.dll
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.pdb
+D:\SI\Curso\Curso C#\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.genruntimeconfig.cache

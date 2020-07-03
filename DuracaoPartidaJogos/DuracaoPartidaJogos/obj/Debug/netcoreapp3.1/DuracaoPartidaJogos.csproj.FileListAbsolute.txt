@@ -1,0 +1,12 @@
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.exe
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.deps.json
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.runtimeconfig.json
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.dll
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\bin\Debug\netcoreapp3.1\DuracaoPartidaJogos.pdb
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.dll
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.pdb
+D:\SI\Curso\Curso C#\DuracaoPartidaJogos\DuracaoPartidaJogos\obj\Debug\netcoreapp3.1\DuracaoPartidaJogos.genruntimeconfig.cache

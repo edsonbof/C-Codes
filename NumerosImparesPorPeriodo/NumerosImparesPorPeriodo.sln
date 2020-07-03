@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImparesPorPeriodo", "NumerosImparesPorPeriodo\NumerosImparesPorPeriodo.csproj", "{BC229177-FEC9-4BA9-B1FD-BECE240A7C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC229177-FEC9-4BA9-B1FD-BECE240A7C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC229177-FEC9-4BA9-B1FD-BECE240A7C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC229177-FEC9-4BA9-B1FD-BECE240A7C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC229177-FEC9-4BA9-B1FD-BECE240A7C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {664376B4-310B-4C38-98FA-987285E2879C}
+	EndGlobalSection
+EndGlobal

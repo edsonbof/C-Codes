@@ -1,0 +1,12 @@
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.exe
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.deps.json
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.runtimeconfig.json
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.dll
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.pdb
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.dll
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.pdb
+D:\SI\Curso\Curso C#\ValidacaoDeSenha\ValidacaoDeSenha\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.genruntimeconfig.cache

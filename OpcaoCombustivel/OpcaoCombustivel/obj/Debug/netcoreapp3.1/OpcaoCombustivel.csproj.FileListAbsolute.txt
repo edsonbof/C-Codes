@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.exe
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.deps.json
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.runtimeconfig.json
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.dll
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\bin\Debug\netcoreapp3.1\OpcaoCombustivel.pdb
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.dll
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.pdb
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.genruntimeconfig.cache
+D:\SI\Curso\Curso C#\OpcaoCombustivel\OpcaoCombustivel\obj\Debug\netcoreapp3.1\OpcaoCombustivel.csprojAssemblyReference.cache

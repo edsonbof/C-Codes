@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.exe
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.deps.json
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.runtimeconfig.json
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.dll
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\bin\Debug\netcoreapp3.1\EntradaESaidaDeDados.pdb
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.dll
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.pdb
+D:\SI\Curso\Curso C#\EntradaESaidaDeDados\EntradaESaidaDeDados\obj\Debug\netcoreapp3.1\EntradaESaidaDeDados.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
+D:\SI\Curso\Curso C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.genruntimeconfig.cache
