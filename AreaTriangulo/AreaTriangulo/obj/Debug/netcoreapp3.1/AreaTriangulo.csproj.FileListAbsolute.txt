@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.exe
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.deps.json
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.json
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.dll
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.pdb
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.dll
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.pdb
+D:\SI\Curso\Curso C#\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.genruntimeconfig.cache

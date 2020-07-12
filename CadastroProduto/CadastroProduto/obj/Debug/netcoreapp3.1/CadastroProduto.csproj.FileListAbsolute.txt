@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.exe
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.deps.json
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.runtimeconfig.json
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.dll
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.pdb
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.dll
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.pdb
+D:\SI\Curso\Curso C#\CadastroProduto\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.exe
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.deps.json
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.runtimeconfig.json
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.dll
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\bin\Debug\netcoreapp3.1\ConverterRealDolar.pdb
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.dll
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.pdb
+D:\SI\Curso\Curso C#\ConverterRealDolar\ConverterRealDolar\obj\Debug\netcoreapp3.1\ConverterRealDolar.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.exe
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.deps.json
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.json
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.dll
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.pdb
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.dll
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.pdb
+D:\SI\Curso\Curso C#\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.genruntimeconfig.cache

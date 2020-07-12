@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.exe
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.deps.json
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.runtimeconfig.json
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.dll
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\bin\Debug\netcoreapp3.1\MediaTrimestral.pdb
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.dll
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.pdb
+D:\SI\Curso\Curso C#\MediaTrimestral\MediaTrimestral\obj\Debug\netcoreapp3.1\MediaTrimestral.genruntimeconfig.cache

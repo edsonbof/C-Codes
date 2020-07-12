@@ -1,0 +1,13 @@
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.exe
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.deps.json
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.runtimeconfig.json
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.runtimeconfig.dev.json
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.dll
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\bin\Debug\netcoreapp3.1\DadosFuncionario.pdb
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.csprojAssemblyReference.cache
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.AssemblyInfoInputs.cache
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.AssemblyInfo.cs
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.csproj.CoreCompileInputs.cache
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.dll
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.pdb
+D:\SI\Curso\Curso C#\DadosFuncionario\DadosFuncionario\obj\Debug\netcoreapp3.1\DadosFuncionario.genruntimeconfig.cache

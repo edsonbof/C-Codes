@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DadosFuncionario/1.0.0": {
+        "runtime": {
+          "DadosFuncionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DadosFuncionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
